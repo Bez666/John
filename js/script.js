@@ -14,19 +14,19 @@ const divHeaderBox = document.createElement('div');
 divHeaderBox.classList.add('header-box');
 const a1 = document.createElement('a');
 a1.classList.add('header__link');
-a1.href = '../john/childrens/works/works.html';
+a1.href = 'childrens/works/works.html';
 a1.textContent = `Works`;
 
 const a2 = document.createElement('a');
 a2.classList.add('header__link');
-a2.href = '../childrens/blog/blog.html';
+a2.href = 'childrens/blog/blog.html';
 a2.textContent = `Blog`;
 
 const a3 = document.createElement('a');
 a3.classList.add('header__link');
 a3.classList.add('header__link_noMargin');
 a3.classList.add('header__link_active');
-a3.href = '../childrens/contact/contact.html';
+a3.href = 'childrens/contact/contact.html';
 a3.textContent = `Contact`;
 
 const main = document.createElement('main');
