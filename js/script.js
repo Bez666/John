@@ -14,7 +14,7 @@ const divHeaderBox = document.createElement('div');
 divHeaderBox.classList.add('header-box');
 const a1 = document.createElement('a');
 a1.classList.add('header__link');
-a1.href = '../childrens/works/works.html';
+a1.href = '../john/childrens/works/works.html';
 a1.textContent = `Works`;
 
 const a2 = document.createElement('a');
