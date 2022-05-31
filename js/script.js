@@ -62,7 +62,7 @@ profileImage.classList.add('profile__image');
 
 const profilePhoto = document.createElement('img');
 profilePhoto.classList.add('profile__photo');
-profilePhoto.src = '../img/photo.jpg';
+profilePhoto.src = 'img/photo.jpg';
 
 const cardBlockButton = document.createElement('div');
 cardBlockButton.classList.add('card-block__button');
