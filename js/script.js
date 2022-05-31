@@ -69,7 +69,8 @@ cardBlockButton.classList.add('card-block__button');
 
 const button = document.createElement('a');
 button.classList.add('button');
-button.href = '#';
+button.download;
+button.href = '../file.txt';
 button.textContent = 'Download Resume';
 
 const sectionRecent = document.createElement('section');
