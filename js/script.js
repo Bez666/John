@@ -62,7 +62,7 @@ profileImage.classList.add('profile__image');
 
 const profilePhoto = document.createElement('img');
 profilePhoto.classList.add('profile__photo');
-profilePhoto.src = 'https://media.istockphoto.com/photos/hes-a-handsome-man-picture-id180841365?k=20&m=180841365&s=612x612&w=0&h=K55vpv3Uplh2pC6x0Euw02RsfNt4_9kQSGtU-p0FT3s=';
+profilePhoto.src = 'https://i.ibb.co/7C0f2z8/photo.jpg';
 
 const cardBlockButton = document.createElement('div');
 cardBlockButton.classList.add('card-block__button');
